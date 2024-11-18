@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df3b6d63.css",
+    "main.js": "/static/js/main.305bc699.js",
+    "static/js/613.d590f4b8.chunk.js": "/static/js/613.d590f4b8.chunk.js",
+    "static/js/110.99f2728c.chunk.js": "/static/js/110.99f2728c.chunk.js",
+    "static/js/319.bbed0332.chunk.js": "/static/js/319.bbed0332.chunk.js",
+    "static/js/112.ef9e8c87.chunk.js": "/static/js/112.ef9e8c87.chunk.js",
+    "static/js/100.7cb3db48.chunk.js": "/static/js/100.7cb3db48.chunk.js",
+    "static/js/987.8167598a.chunk.js": "/static/js/987.8167598a.chunk.js",
+    "static/js/773.ceef945c.chunk.js": "/static/js/773.ceef945c.chunk.js",
+    "static/js/263.f0fbeb27.chunk.js": "/static/js/263.f0fbeb27.chunk.js",
+    "static/js/700.7cf1d07f.chunk.js": "/static/js/700.7cf1d07f.chunk.js",
+    "static/js/780.c3ef38f6.chunk.js": "/static/js/780.c3ef38f6.chunk.js",
+    "static/js/102.e3accaf3.chunk.js": "/static/js/102.e3accaf3.chunk.js",
+    "static/js/99.ba4f2ac3.chunk.js": "/static/js/99.ba4f2ac3.chunk.js",
+    "static/js/458.bb1aea99.chunk.js": "/static/js/458.bb1aea99.chunk.js",
+    "static/css/154.09cca057.chunk.css": "/static/css/154.09cca057.chunk.css",
+    "static/js/154.1c87f525.chunk.js": "/static/js/154.1c87f525.chunk.js",
+    "static/css/977.09cca057.chunk.css": "/static/css/977.09cca057.chunk.css",
+    "static/js/977.a3439ce7.chunk.js": "/static/js/977.a3439ce7.chunk.js",
+    "static/js/386.801b45d1.chunk.js": "/static/js/386.801b45d1.chunk.js",
+    "static/js/711.641b8f08.chunk.js": "/static/js/711.641b8f08.chunk.js",
+    "static/js/73.95c288a1.chunk.js": "/static/js/73.95c288a1.chunk.js",
+    "static/js/320.4155dfac.chunk.js": "/static/js/320.4155dfac.chunk.js",
+    "static/js/359.c8e51c20.chunk.js": "/static/js/359.c8e51c20.chunk.js",
+    "static/js/680.81832a44.chunk.js": "/static/js/680.81832a44.chunk.js",
+    "static/media/Logo.png": "/static/media/Logo.e8f6f95ee781ab63f6be.png",
+    "static/media/user-round.svg": "/static/media/user-round.27fe79b102ea6aad2f60e66cff82818d.svg",
+    "static/media/virus.png": "/static/media/virus.ab349eb3760d9e10ffbb.png",
+    "static/media/nurse.png": "/static/media/nurse.ca3b98a69de1750fb623.png",
+    "static/media/fondo-splash.jpeg": "/static/media/fondo-splash.774ff0fbeeafdb4b00f1.jpeg",
+    "static/media/service.png": "/static/media/service.e6481a84da6cfa245d9a.png",
+    "static/media/rehabilitation.png": "/static/media/rehabilitation.ef95328fe745eebf4b67.png",
+    "static/media/hospital.png": "/static/media/hospital.e91f0a4bbc4994b7d5d9.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.df3b6d63.css",
+    "static/js/main.305bc699.js"
+  ]
+}
